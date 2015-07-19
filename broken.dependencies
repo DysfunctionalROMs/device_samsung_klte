@@ -1,0 +1,14 @@
+[
+ {
+   "remote":      "github"
+   "repository":  "DirtyUnicorns/android_kernel_samsung_klte",
+   "target_path": "kernel/samsung/klte",
+   "branch":      "lollipop-caf"
+ },
+ {
+   "remote":      "github",
+   "repository":  "DirtyUnicorns/android_vendor_samsung/klte",
+   "target_path": "vendor/motorola",
+   "branch":      "lp5.1"
+ }
+]
