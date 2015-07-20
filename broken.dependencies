@@ -1,7 +1,7 @@
 [
  {
    "remote":      "github"
-   "repository":  "DirtyUnicorns/android_kernel_samsung_klte",
+   "repository":  "Blaskewitts/android_kernel_samsung_klte",
    "target_path": "kernel/samsung/klte",
    "branch":      "lollipop-caf"
  }
